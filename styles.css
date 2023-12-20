@@ -1,0 +1,71 @@
+.body {
+    background-color: gainsboro;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: left;
+}
+
+.skills {
+    padding: 20px
+}
+
+.container {
+    padding: 3px;
+}
+
+.projects {
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #F1EFEF;
+}
+
+.profile {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+h1, h2 {
+    font-family: 'Baskervville', serif;
+    padding-bottom: 5px;
+}
+
+p {
+    padding: 5px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+li span {
+    font-weight: bold;
+}
+
+.profile-picture {
+    height: 300px;
+    margin: 20px;
+}
+.profile-picture-2 {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.profile-picture-laptop {
+    height: 20em;
+    border-radius: 20%;
+    margin-right: 20px;
+}
